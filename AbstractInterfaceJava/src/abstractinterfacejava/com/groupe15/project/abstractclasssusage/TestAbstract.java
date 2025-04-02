@@ -47,8 +47,9 @@ public class TestAbstract {
             // Affichage des étudiants insérés
             System.out.println("----- Student Records -----");
             s1.showDynamicIdentity(s1.getId());
-           System.out.println("----- Student Records -----");
+            System.out.println("----- Student Records -----");
             s2.showDynamicIdentity(s2.getId());
+           
             
 
         } catch (SQLException | ClassNotFoundException e) {
