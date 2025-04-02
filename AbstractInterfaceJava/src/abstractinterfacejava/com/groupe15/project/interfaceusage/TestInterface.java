@@ -18,7 +18,7 @@ public class TestInterface {
             ((Employee) e4).setId(4);
             ((Employee) e4).setFirstName("MUHINDO");
             ((Employee) e4).setLastName("MOISE");
-            ((Employee) e4).setCnss("22LDGELhjhJ1ERER");
+            ((Employee) e4).setCnss("22LDGELhgjhJ1ERER");
 
             e4.add();
             System.out.println("Employee inserted successfully!");
